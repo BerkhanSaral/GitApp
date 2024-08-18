@@ -1,15 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc80427-0070-43e0-a45d-254edf0b4e09" name="Changes" comment="" />
+    <list default="true" id="9cc80427-0070-43e0-a45d-254edf0b4e09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/ClasslarIleCalismak/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/ClasslarIleCalismak/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/ClasslarIleCalismak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/ClasslarIleCalismak/classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/Encapsulation/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/Encapsulation/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnginDemirog/methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/dene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/kullanici/Doktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/kullanici/Hasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/kullanici/Kullanici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/kullanici/KullaniciIslemleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/kullanici/Yonetici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/randevu/Randevu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HastaneYonetimSistemi/randevu/RandevuIslemleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/EnumRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/ExceptionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/ExceptionRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/InvalidNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d28exceptions_enum_iterators/InvalidStudentGradeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d32lambda/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d32lambda/CourseRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d32lambda/Lambda01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d32lambda/lambdaTextFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C010_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C011_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C01_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C02_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C03_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C04_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C05_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C06_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C07_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C08_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C09_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C12_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C13_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/C14_Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnginDemirog/uygulamalarim.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnginDemirog/uygulamalarim.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2gxLhIGK3Qd9TwFT5wsOpf2bbb6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,8 +77,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saral/OneDrive/Masaüstü/TechProEducaion/Java"
+    "last_opened_file_path": "C:/Users/saral/OneDrive/Masaüstü/TechProEducaion/Java/Batch254NT/src/main/java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

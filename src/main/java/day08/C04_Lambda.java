@@ -1,0 +1,19 @@
+package day08;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class C04_Lambda {
+    public static void main(String[] args) {
+        List<Integer> mylist = new ArrayList<>(Arrays.asList(1, 7, 11, 23, 12, 14, 47, 58, 91, 37, 37, 23, 8, 11, 1, 23, 23, 8));
+        //4) Bir list'teki "3'e tam bolunmeyen" olan elemanlarin "kup"lerini "tekrarsiz" olarak ayni satirda
+        //aralarina bosluk koyarak yazdiran method'u olusturunuz.
+        uceBolunmeyenKupler(mylist);
+
+    }
+
+    public static void uceBolunmeyenKupler(List<Integer> mylist) {
+        mylist.stream().distinct().filter(t -> t % 3 != 0).map(t -> Math.pow(t, 3)).forEach(t -> System.out.print(t + " "));
+    }
+}
